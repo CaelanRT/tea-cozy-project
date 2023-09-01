@@ -1,6 +1,21 @@
-.body {
+.header {
     background-color: black;
-    opacity: 0.9;
+    display: inline-flex;
+    justify-content: space-between;
+    min-width: 300px;
+    width: 1300px;
+    height: 69px;
+    align-items: center;
+}
+
+.headerMenu {
+    text-decoration: underline;
+    color: seashell;
     font-size: 22px;
-    font-family: Helvetica;
+    margin-right: 10px;
+}
+
+#teaCozy {
+    height: 50px;
+    margin-left: 10px;
 }
