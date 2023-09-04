@@ -84,6 +84,7 @@ body {
 
 .totm .totmLarge .totmSmall #Teas {
     height: 200px;
+    margin-bottom: 10px;
 }
 
 .locationsParent {
@@ -127,6 +128,7 @@ body {
 
 .footer {
     text-align: center;
+    height: 200px;
 }
 
 .copyright {
