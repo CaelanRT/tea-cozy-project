@@ -51,8 +51,6 @@ body {
 .totm {
     display: flex;
     background-color: black;
-    width: 100%;
-    position: relative;
 }
 
 .totm .totmHeader {
